@@ -1,0 +1,18 @@
+.img{
+    height: 250px;
+    width: 300px;
+}
+
+.highlightText{
+    text-align: center;
+}
+
+.highlightText-caption{
+    text-align: center;
+}
+
+
+.image{
+    align-self: center;
+}
+
